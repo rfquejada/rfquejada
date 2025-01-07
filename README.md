@@ -2,9 +2,10 @@
 <h3 align="center">a happy-go-lucky 3rd-year BS Computer Science student in University of the Philippines</h3>
 
 <h3 align="left">Projects: </h3>
-<h4 align="left">2D Retro Shooting Game (made with Java)</h4>
-<h4 align="left">A Los Banos Donation System Mobile Application (made with flutter)</h4>
-<h4 align="left">5-Star Rating System for Food Establishments (made with Python and MySQL)</h4>
+<h4 align="left">Agrimart (E-commerce Web App | MERN)</h4>
+<h4 align="left">Elbiyaya (Donation Mobile App | Flutter | Firebase)</h4>
+<h4 align="left">Attendance Management System using Facial Recognition (Python | OpenCV)</h4>
+<h4 align="left">Critique (Food Establishment Rating System | Python | MySQL)</h4>
 <p align="left">
 </p>
 
