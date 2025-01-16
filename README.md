@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roche Quejada</h1>
-<h3 align="justify">I'm a Bachelor of Science in Computer Science student at the University of the Philippines Los Baños, driven by a passion for creating innovative solutions in software engineering and artificial intelligence. Whether it's building web or mobile applications, I enjoy turning ideas into functional and user-friendly experiences.
-<br>
-I also have a deep interest in artificial intelligence, with a focus on data science and machine learning, where I explore how data and algorithms can solve real-world problems and improve lives.</h3>
+<h3 align="justify">I'm a Bachelor of Science in Computer Science student at the University of the Philippines Los Baños, driven by a passion for creating innovative solutions in software engineering and artificial intelligence. Whether it's building web or mobile applications, I enjoy turning ideas into functional and user-friendly experiences.</h3>
+<h3 align="justify">I also have a deep interest in artificial intelligence, with a focus on data science and machine learning, where I explore how data and algorithms can solve real-world problems and improve lives.</h3>
 
 <h3 align="left">Projects: </h3>
 <h4 align="left">Agrimart (E-commerce Web App | MERN)</h4>
